@@ -17,7 +17,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { useState } from "react";
-import { isBooleanObject } from "util/types";
+
 import {
   Collapsible,
   CollapsibleContent,
